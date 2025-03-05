@@ -418,3 +418,6 @@
 [15:23:12 | 05-03-2025] Last Claim Point: 04/03/2025 08:21:30
 [15:24:12 | 05-03-2025] ✅ Points claimed for 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
 [15:24:47 | 05-03-2025] 🚨 Failed to start node for 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7: [object Object]
+[19:35:34 | 05-03-2025] Wallet Address: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7
+[19:35:34 | 05-03-2025] Node Points: 356696
+[19:35:34 | 05-03-2025] Last Claim Point: 05/03/2025 08:23:52
